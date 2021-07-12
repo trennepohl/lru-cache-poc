@@ -33,7 +33,7 @@ ok      github.com/trennepohl/lru-cache-poc/internal/notscalablecache   1.231s
 ```
 
 
-### Cache with doubly linked queue/list
+#### Cache with doubly linked queue/list
 ```
 pkg: github.com/trennepohl/lru-cache-poc/internal/supercache
 cpu: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
